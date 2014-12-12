@@ -1,0 +1,6 @@
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\bin\Debug\SingletonDB.exe.config
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\obj\Debug\SingletonDB.csprojResolveAssemblyReference.cache
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\bin\Debug\SingletonDB.exe
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\bin\Debug\SingletonDB.pdb
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\obj\Debug\SingletonDB.exe
+c:\users\quinzh\documents\visual studio 2012\Projects\SingletonDB\SingletonDB\obj\Debug\SingletonDB.pdb
